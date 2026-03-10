@@ -13,4 +13,4 @@ int main(){
     }
 
     cout << "Bilangan yang diberikan = " << x;
-} 
+}
